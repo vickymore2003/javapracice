@@ -41,5 +41,9 @@ public class abstarctClasswithinterface {
 		a.b();
 		a.c();
 		a.d();
+		B b = new M();
+		b.a();
+		b.b();
+		b.d();
 	}
 }
